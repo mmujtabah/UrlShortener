@@ -21,7 +21,7 @@ This URL shortener program is a simple application developed in Python using the
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/url-shortener.git
+1. Clone the repository: `git clone https://github.com/mmujtabah/CodeClauseUrlShortener.git`
 2. Navigate to the project directory:
 3. Install the required dependencies:
 
