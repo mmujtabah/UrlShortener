@@ -14,32 +14,23 @@ This URL shortener program is a simple application developed in Python using the
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Tkinter
 - Pyshorteners
 - Pyperclip
 
 ## Installation
 
-1. Clone the repository:
-git clone https://github.com/yourusername/url-shortener.git
+1. Clone the repository: git clone https://github.com/yourusername/url-shortener.git
 2. Navigate to the project directory:
 3. Install the required dependencies:
-   ## Usage
+
+## Usage
 
 1. Run the program:
-   
 2. Enter the long URL in the input field.
-
 3. Click the "Generate Short URL" button.
-
 4. The short URL will be displayed, and you can click "Click to Copy" to copy it to the clipboard.
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
 
