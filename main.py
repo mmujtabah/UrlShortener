@@ -16,10 +16,12 @@ def UrlShortener():
     else:
         short_url.set("Please enter a valid URL")
 
+
 # Copy url to clipboard
 def UrlCopy():
     url = short_url.get()
     pyperclip.copy(url)
+
 
 root.title("CodeClause Project 1")
 root.geometry("600x400")
