@@ -1,10 +1,10 @@
 # CodeClauseUrlShortener
 
-A Python-based URL shortener program with a GUI developed using Tkinter.
+A Python-based URL shortener program with a GUI developed using Qt.
 
 ## Overview
 
-This URL shortener program is a simple application developed in Python using the Tkinter library for the graphical user interface. It allows users to generate short URLs using the Bitly API and easily copy them to the clipboard.
+This URL shortener program is a simple application developed in Python using the Qt library for the graphical user interface. It allows users to generate short URLs using the Bitly API and easily copy them to the clipboard.
 
 ## Features
 
