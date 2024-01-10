@@ -15,7 +15,7 @@ This URL shortener program is a simple application developed in Python using the
 ## Requirements
 
 - Python 3.11
-- Tkinter
+- PySide6
 - Pyshorteners
 - Pyperclip
 
