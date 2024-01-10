@@ -14,7 +14,6 @@ class CustomDialog(QDialog):
         self.setWindowTitle("Error")
         self.setMinimumWidth(150)
         self.setMinimumHeight(100)
-
         layout = QVBoxLayout()
         label = QLabel(message)
         font = QFont("Arial", 10)
@@ -39,7 +38,8 @@ class Widget(QWidget, Ui_Widget):
         super().__init__(parent)
         self.ui = Ui_Widget()
         self.ui.setupUi(self)
-
+        self.setWindowTitle("URL Shortener")
+        
         # Connect the clicked signal of the generateButton to the convertUrl method
         self.ui.generateButton.clicked.connect(self.convert_url)
 
