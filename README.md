@@ -1,4 +1,4 @@
-# CodeClauseUrlShortener
+# UrlShortener
 
 A Python-based URL shortener program with a GUI developed using Qt.
 
